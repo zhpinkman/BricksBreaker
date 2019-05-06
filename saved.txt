@@ -1,0 +1,5 @@
+dd,12
+d,14
+nn,16
+zhivara,18
+negar,18
